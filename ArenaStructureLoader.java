@@ -66,7 +66,7 @@ public final class ArenaStructureLoader {
                     origin,
                     false,                                    // no entities in this structure
                     org.bukkit.block.structure.StructureRotation.NONE,
-                    org.bukkit.Mirror.NONE,
+                    org.bukkit.block.structure.Mirror.NONE,
                     0,                                        // palette index (only one palette present)
                     1.0f,                                     // integrity - 1.0 = every block placed
                     new Random()
